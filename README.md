@@ -1,7 +1,7 @@
 # Autonomous Quadrotor Project Website
 Senior Design Spring 2024 Group 2
 
-This is the official website for our senior design quadrotor drone project. It will contain relevant documentation and is meant to be the main reference for UMN students participating in a class based around this project
+This is the official website for our senior design quadrotor drone project. It will contain relevant documentation and is meant to be the main reference for UMN students participating in a course based around this project
 
 ## Members:
 | Name              | UMN Email             |
